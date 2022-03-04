@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(61, 178, 187);
+    border-bottom: 2px solid black;
+
+    .container_header{
+        margin: 0 auto;
+        height: 100px;
+        max-width: 1200px;
+        line-height: 100px;
+    
+        h1{
+            text-align: center;
+        }
+    }
+}
+
